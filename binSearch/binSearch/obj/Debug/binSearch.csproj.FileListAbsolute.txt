@@ -1,0 +1,6 @@
+/Users/aniekan/Projects/c programs/C#/binSearch/binSearch/bin/Debug/binSearch.exe
+/Users/aniekan/Projects/c programs/C#/binSearch/binSearch/bin/Debug/binSearch.pdb
+/Users/aniekan/Projects/c programs/C#/binSearch/binSearch/obj/Debug/binSearch.csproj.AssemblyReference.cache
+/Users/aniekan/Projects/c programs/C#/binSearch/binSearch/obj/Debug/binSearch.csproj.CoreCompileInputs.cache
+/Users/aniekan/Projects/c programs/C#/binSearch/binSearch/obj/Debug/binSearch.exe
+/Users/aniekan/Projects/c programs/C#/binSearch/binSearch/obj/Debug/binSearch.pdb
